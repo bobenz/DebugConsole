@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/debugconsole">
+        <file>Monitor.qml</file>
+    </qresource>
+</RCC>
